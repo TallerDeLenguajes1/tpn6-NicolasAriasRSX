@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fmtQmCMWzSZJZS++OBRanObL01jRerm0g6zSkxi2SlXsJjKHi+FvIu+nFzJRvDBKMKGUGkM+uuR9y+f7y/IS8Q==",
+  "success": true,
+  "projectFilePath": "D:\\P.U\\Taller de lenguaje 1\\TP6\\tpn6-NicolasAriasRSX\\TP6_1\\TP6_2\\TP6_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nico\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -23,6 +23,16 @@ namespace TP6_3
             Console.WriteLine("          El seno es = " + Math.Sin(Num));
             Console.WriteLine("        El coseno es = " + Math.Cos(Num));
             Console.WriteLine("  La parte entera es = " + Math.Truncate(Num));
+
+            Console.WriteLine("Ingrese 2 Numeros");
+            Console.WriteLine("Ingrese el primer numero");
+            double A = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Ingrese el segundo numero");
+            double B = Convert.ToDouble(Console.ReadLine());
+
+            Console.WriteLine("El maximo entre los numeros es: " + Math.Max(A,B));
+            Console.WriteLine("El minimo entre los numeros es: " + Math.Min(A,B));
+
         }
     }
 }
